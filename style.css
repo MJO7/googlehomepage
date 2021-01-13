@@ -1,0 +1,88 @@
+.p1 {
+  margin-left: 34.8%;
+  margin-top: 8.1%;
+  justify-content: space-around;
+}
+.input {
+  width: 550px;
+  height: 40px;
+  border: 0.000001px solid grey;
+  margin-left: 32%;
+  margin-top: 24;
+  border-radius: 50px;
+  justify-content: space-around;
+}
+.p2 {
+  margin-left: 32%;
+  margin-top: -2.6%;
+  justify-content: space-around;
+}
+
+.p3 {
+  margin-left: 36%;
+  margin-top: -1.6%;
+  color: grey;
+  font: larger;
+  font-style: unset;
+  justify-content: space-around;
+}
+.inbox {
+  margin-left: 35%;
+  margin-top: 3%;
+  justify-content: space-around;
+}
+
+.inboxtext {
+  margin-left: 36.6%;
+}
+.microphone {
+  margin-left: 67%;
+  margin-top: -11%;
+}
+.plus {
+  margin-left: 42.5%;
+  margin-top: 2%;
+}
+
+.shortcuts {
+  margin-left: 43.7%;
+  margin-top: -0.5%;
+}
+.gmail {
+  margin-left: 85%;
+  margin-top: -30%;
+}
+.images {
+  margin-left: 89%;
+  margin-top: -1.25%;
+}
+
+.apps {
+  margin-left: 93%;
+  margin-top: -1.85%;
+}
+
+.profile {
+  margin-left: 96%;
+  margin-top: -3%;
+}
+
+.customize {
+  margin-left: 93%;
+  margin-top: 42%;
+}
+
+.input2 {
+  width: 100px;
+  height: 30px;
+  border: 0.000001px solid grey;
+  margin-left: 93%;
+  margin-top: -1.8%;
+  border-radius: 50px;
+  justify-content: space-around;
+}
+
+.ct {
+  margin-left: 95%;
+  margin-top: -1.8%;
+}
